@@ -1,0 +1,14 @@
+#+TITLE: PyPlotRecipes.jl
+#+AUTHOR: Stefanos Carlström
+#+EMAIL: stefanos.carlstrom@gmail.com
+
+/Very/ simple library for utilizing [[https://github.com/JuliaPlots/RecipesBase.jl][plot recipes]] using [[https://github.com/JuliaPy/PyPlot.jl][PyPlot.jl]]
+directly.
+
+Usage:
+
+#+BEGIN_SRC julia
+rplot(t, args...)
+#+END_SRC
+
+PRs welcome!
